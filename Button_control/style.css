@@ -1,0 +1,15 @@
+div {
+	width: 20%;
+	margin: auto;
+}
+
+ button {
+   width: 40px;
+   height: 40px;
+   border-radius: 20px
+   border: 2px solid;
+	}
+input {
+	display: inline-block;
+	padding: 10px;
+}
